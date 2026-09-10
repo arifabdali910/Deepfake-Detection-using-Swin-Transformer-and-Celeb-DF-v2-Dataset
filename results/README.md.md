@@ -152,12 +152,15 @@ If you use this work, please cite:
 
 ```
 ```bibtex
+```bibtex
 @misc{arif2025deepfake,
   author = {Arif Kamal},
   title  = {Deepfake Detection using Swin Transformer and Celeb-DF-v2},
   year   = {2025},
   url    = {https://github.com/arifabdali910/Deepfake-Detection-using-Swin-Transformer-and-Celeb-DF-v2-Dataset}
 }
+```
+
 ```
 
 
