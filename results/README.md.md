@@ -152,10 +152,10 @@ If you use this work, please cite:
 
 ```
 @misc{saqib2025deepfake,
-  author = {Muhammad Saqib},
+  author = {Arif kamal},
   title  = {Deepfake Detection using Swin Transformer and Celeb-DF-v2},
   year   = {2025},
-  url    = {https://github.com/YOUR_USERNAME/deepfake-swin-celeb-df}
+  url    = {https://github.com/arifabdali910/deepfake-swin-celeb-df}
 }
 ```
 
