@@ -151,7 +151,6 @@ Open and run `training-celeb-df.ipynb` in Jupyter or Kaggle. The notebook handle
 If you use this work, please cite:
 
 ```
-```bibtex
 @misc{arif2025deepfake,
   author = {Arif Kamal},
   title  = {Deepfake Detection using Swin Transformer and Celeb-DF-v2},
@@ -160,9 +159,6 @@ If you use this work, please cite:
 }
 ```
 
-```
-
----
 
 ## License
 
