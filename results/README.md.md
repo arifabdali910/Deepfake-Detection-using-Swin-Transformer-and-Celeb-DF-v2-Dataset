@@ -152,7 +152,6 @@ If you use this work, please cite:
 
 ```
 ```bibtex
-```bibtex
 @misc{arif2025deepfake,
   author = {Arif Kamal},
   title  = {Deepfake Detection using Swin Transformer and Celeb-DF-v2},
@@ -162,7 +161,6 @@ If you use this work, please cite:
 ```
 
 ```
-
 
 ---
 
